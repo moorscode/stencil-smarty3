@@ -74,7 +74,7 @@ if ( class_exists( 'Stencil_Implementation' ) ) :
 			 */
 			$this->engine->caching = 0;
 
-			parent::ready();
+			$this->ready();
 		}
 
 		/**
