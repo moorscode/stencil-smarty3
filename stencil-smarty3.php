@@ -45,7 +45,7 @@ add_filter( 'stencil:register-engine', '__stencil_smarty3_register' );
  * @return array
  */
 function __stencil_smarty3_register( $engines ) {
-	$engine = 'Smarty 3.x';
+	$engine    = 'Smarty 3.x';
 	$engines[] = $engine;
 
 	add_action( 'stencil.activate-' . $engine, '__stencil_smarty3_activate' );
