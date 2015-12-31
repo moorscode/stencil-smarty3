@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "Project-Id-Version: Stencil: Smarty 3.x Implementation\n"
-"POT-Creation-Date: 2015-12-30 17:03+0100\n"
-"PO-Revision-Date: 2015-12-30 17:02+0100\n"
+"POT-Creation-Date: 2015-12-31 17:51+0100\n"
+"PO-Revision-Date: 2015-12-31 17:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -23,8 +23,8 @@ msgstr ""
 #: stencil-dependency.php:42
 #, php-format
 msgid ""
-"addon: Required plugin \"<a href=\"%s\" target=\"_blank\">Stencil</a>\" is "
-"not installed."
+"implementation: Required plugin \"<a href=\"%s\" target=\"_blank\">Stencil</"
+"a>\" is not installed."
 msgstr ""
 
 #. Plugin Name of the plugin/theme
@@ -32,17 +32,18 @@ msgid "Stencil: Smarty 3.x Implementation"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "http://www.jipmoors.nl/stencil/"
+msgid "https://github.com/moorscode/stencil/"
 msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
-"Stencil Implementation. This addon enables the use of Smarty 3.x in your "
-"theme. This addon requires the plugin Stencil to be installed and activated."
+"Smarty 3 Stencil Implementation. This plugin enables the use of Smarty 3 in "
+"your theme. This implementation requires the plugin \"Stencil\" to be "
+"installed and active."
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "jipmoors"
+msgid "Jip Moors (moorscode)"
 msgstr ""
 
 #. Author URI of the plugin/theme
